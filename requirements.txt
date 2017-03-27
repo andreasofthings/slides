@@ -1,2 +1,2 @@
-sphinx>=1.5.4
+python-sphinx>=1.5.4
 hieroglyph
