@@ -1,1 +1,2 @@
 sphinx>=1.5.4
+hieroglyph
