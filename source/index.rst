@@ -10,6 +10,7 @@ Welcome to Slides's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+  Marketing
 
 
 Indices and tables
